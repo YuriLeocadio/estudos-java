@@ -11,7 +11,7 @@ Repositório criado para armazenar todo o progresso, códigos de exemplo e exerc
 ## 📌 Conteúdos Estudados
 
 *   [x] Configuração de Ambiente (Instalação do JDK e IDE)
-*   [ ] Sintaxe Básica do Java e Estruturas Condicionais
+*   [x] Sintaxe Básica do Java e Estruturas Condicionais
 *   [ ] Laços de Repetição e Arrays
 *   [ ] Orientação a Objetos (Classes, Métodos, Herança, Polimorfismo)
 *   [ ] Tratamento de Exceções
