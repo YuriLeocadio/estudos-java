@@ -12,7 +12,7 @@ Repositório criado para armazenar todo o progresso, códigos de exemplo e exerc
 
 * 🟩 **Configuração de Ambiente** (Instalação do JDK e IDE)
 * 🟩 **Sintaxe Básica** do Java e Estruturas Condicionais
-* ⬜ Laços de Repetição e Arrays
+* 🟩 Laços de Repetição e Arrays
 * ⬜ Orientação a Objetos (Classes, Métodos, Herança, Polimorfismo)
 * ⬜ Tratamento de Exceções
 * ⬜ Coleções (Lists, Maps, Sets)

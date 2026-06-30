@@ -10,7 +10,7 @@ public class Aula05EstruturasCondicionais04 {
 
         if (salarioAnual <= 34712) {
             valorImposto = salarioAnual * primeiraFaixa;
-        } else if (salarioAnual >= 37713 && salarioAnual <= 68507) {
+        } else if (salarioAnual <= 68507) {
             valorImposto = salarioAnual * segundaFaixa;
         } else {
             valorImposto = salarioAnual * terceiraFaixa;
