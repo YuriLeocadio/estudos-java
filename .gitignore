@@ -1,5 +1,6 @@
 ### IntelliJ IDEA (Essencial para o seu projeto) ###
 .idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
