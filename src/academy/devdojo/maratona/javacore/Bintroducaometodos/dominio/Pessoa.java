@@ -4,7 +4,7 @@ public class Pessoa {
     private String nome;
     private int idade;
 
-    public void imprime(){
+    public void imprime() {
         System.out.println(this.nome);
         System.out.println(this.idade);
     }
@@ -21,11 +21,11 @@ public class Pessoa {
         this.idade = idade;
     }
 
-    public String getNome(){
+    public String getNome() {
         return this.nome;
     }
 
-    public int getIdade(){
+    public int getIdade() {
         return this.idade;
     }
 }
