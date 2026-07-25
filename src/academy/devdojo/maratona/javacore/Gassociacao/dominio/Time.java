@@ -2,7 +2,7 @@ package academy.devdojo.maratona.javacore.Gassociacao.dominio;
 
 public class Time {
     private String nome;
-    private Jogador[] jogares;
+    private Jogador[] jogadores;
 
     public Time(String nome) {
         this.nome = nome;
@@ -10,25 +10,25 @@ public class Time {
 
     public Time(String nome, Jogador[] jogares) {
         this.nome = nome;
-        this.jogares = jogares;
+        this.jogadores = jogares;
     }
 
     public void imprime(){
         System.out.println(this.nome);
-        if(jogares == null){
+        if(jogadores == null){
             return;
         }
-        for(Jogador jogador : jogares){
+        for(Jogador jogador : jogadores){
             System.out.println(jogador.getNome());
         }
     }
 
     public Jogador[] getJogadores() {
-        return jogares;
+        return jogadores;
     }
 
     public void setJogadores(Jogador[] jogares) {
-        this.jogares = jogares;
+        this.jogadores = jogares;
     }
 
     public String getNome() {
