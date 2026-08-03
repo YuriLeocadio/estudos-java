@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class RepositorioTeste {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Repositorio repositorio = new RepositorioArquivo();
         repositorio.salvar();
         List<String> list = new LinkedList<>();
