@@ -16,7 +16,7 @@ Repositório criado para armazenar todo o progresso, códigos de exemplo e exerc
 * 🟩 **Orientação a Objetos** (Classes, Métodos, Encapsulamento, Construtores,
   Static, Associação, Herança, Modificador Final, Enumeração, Classes
   Abstratas, Interfaces, Polimorfismo)
-* ⬜ Tratamento de Exceções
+* 🟩 Tratamento de Exceções
 * ⬜ Classes Utilitárias (Wrappers, Strings, Data/Hora, Regex, IO/NIO)
 * ⬜ Coleções (Lists, Maps, Sets, Generics)
 * ⬜ Lambdas, Streams e Programação Funcional
